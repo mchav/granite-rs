@@ -1,0 +1,14 @@
+[package]
+name = "granite_rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[lib]
+name = "granite_rs"
+path = "src/lib.rs"
+
+[[bin]]
+name = "mybin"
+path = "src/main.rs"
