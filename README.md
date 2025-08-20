@@ -15,7 +15,7 @@ An implementation of Haskell's granite terminal plotting library in Rust.
 ## Examples
 
 ### Scatter plot
-![Scatter Plot](https://github.com/mchav/granite/blob/main/static/scatter_plot.png)
+![Scatter Plot](https://github.com/mchav/granite-rs/blob/main/static/rust_scatter.png)
 
 ```rust
 use granite_rs::*;
