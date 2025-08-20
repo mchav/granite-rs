@@ -1,5 +1,5 @@
 # Granite
-An implementation of Haskell's granite terminal plotting library in Rust.
+An implementation of [Haskell's granite terminal plotting library](https://github.com/mchav/granite) in Rust.
 
 # Supported graph types
 
